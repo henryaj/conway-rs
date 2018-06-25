@@ -1,0 +1,7 @@
+[package]
+name = "conway-rs"
+version = "0.1.0"
+authors = ["Henry Stanley <henry@henrystanley.com>"]
+
+[dependencies]
+pxl = "0.0.7"
